@@ -11,8 +11,8 @@ was chasing something else.
 #### Here
 
 **[tactix](https://github.com/polocaz/tactix)** · Data-oriented agent simulation in C++. 10,000
-agents at 60 ticks per second in 1.6 ms of a 15 ms budget, structure-of-arrays layout, seven
-worker threads, Tracy instrumentation.
+agents at 60 ticks per second in 1.6 ms of a 15 ms budget, structure-of-arrays layout, a uniform grid
+spatial hash, and seven worker threads.
 
 **[rustygpu](https://github.com/polocaz/rustygpu)** · CPU, RAM and GPU stress tester in Rust.
 
